@@ -12,3 +12,4 @@ export default function ExerciseImage({ src, alt }: ExerciseImageProps) {
     </div>
   );
 }
+// componente ExerciseImage
