@@ -21,4 +21,4 @@ export default function ExerciseList({ exercises }: ExerciseListProps) {
     </div>
   );
 }
-// componente ExerciseList
+
