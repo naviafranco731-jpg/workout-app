@@ -23,4 +23,4 @@ export default function ExerciseCard({ name, sets, reps, imageSrc }: ExerciseCar
     </div>
   );
 }
-// componente ExerciseCard
+
