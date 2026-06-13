@@ -11,3 +11,4 @@ export default function SectionHeader({ title, count }: SectionHeaderProps) {
     </div>
   );
 }
+// componente SectionHeader
