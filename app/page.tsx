@@ -18,4 +18,4 @@ export default function Home() {
       <ExerciseList exercises={exercises} />
     </main>
   );
-}
+}// pagina principal
